@@ -43,8 +43,7 @@ The objective of this HR Interactive Dashboard is to provide a comprehensive ove
 - Positioned KPIs for easy visibility.
 
 # Dashboard
-- <a href= "Bike sales Dashboard.png">Bike sales Dashboard</a>
-<img width="912" alt="Bike sales Dashboard" src="https://github.com/user-attachments/assets/49ed0013-6e80-4672-829f-1aea2717ffb9" />
+- <a href= "HR Analytics Dashboard.png"> HR Analytics Dashboard</a>
 
 # Project Insights
 • Salary Concentration: Most employees earn between $40,000 and $100,000, as shown by the salary distribution histogram.
