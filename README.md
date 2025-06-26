@@ -44,7 +44,9 @@ The objective of this HR Interactive Dashboard is to provide a comprehensive ove
 
 # Dashboard
 - <a href= "HR Analytics Dashboard.png"> HR Analytics Dashboard</a>
-<img width="841" alt="HR Analytics Dashboard" src="https://github.com/user-attachments/assets/60e09fae-8f4a-4199-910a-6e72f0553ac3" />
+<img width="841" alt="HR Analytics Dashboard" src="https://github.com/user-attachments/assets/a53c8874-a72c-42b7-9c53-6054479f6586" />
+
+
 
 # Project Insights
 - Salary Concentration: Most employees earn between $40,000 and $100,000, as shown by the salary distribution histogram.
