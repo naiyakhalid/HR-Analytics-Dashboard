@@ -20,15 +20,15 @@ The objective of this HR Interactive Dashboard is to provide a comprehensive ove
 6. Gender Distribution: Displays the gender split within the organization (e.g., 55% Male, 45% Female).
 
 ## ⚙️ Process Followed
-## 1 Data Preparation
+# 1 Data Preparation
 - Cleaned and validated the dataset (e.g., removed anomalies like negative salaries).
 - Ensured consistency in categories (e.g., Department names, Gender labels).
 
-## 2 Data Transformation
+# 2 Data Transformation
 - Created age groups and salary bands for grouped analysis.
 - Derived calculated fields such as Average Salary, Max Salary, and Min Salary.
 
-## 3 Dashboard Construction
+# 3 Dashboard Construction
 - Built Pivot Tables to aggregate data by department, gender, performance, etc.
 - Inserted relevant charts.
 - Histogram for Salary Distribution.
@@ -37,7 +37,7 @@ The objective of this HR Interactive Dashboard is to provide a comprehensive ove
 - Clustered column chart for salary by performance band
 - Added slicers for Department, Region, Gender, and Manager status to enable interactive filtering.
 
-## 4 Styling
+# 4 Styling
 - Applied consistent color schemes and fonts.
 - Added data labels and meaningful chart titles.
 - Positioned KPIs for easy visibility.
@@ -61,5 +61,5 @@ The HR Interactive Dashboard successfully presents a high-level and detailed vie
 - Identify areas for diversity and inclusion initiatives
 - Evaluate salary structures in relation to tenure and performance
 - Support workforce planning and retention strategies
-- 
+  
 👉 With interactive filters, stakeholders can further drill down by region, gender, department, or managerial status to uncover deeper insights and make informed decisions.
