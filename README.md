@@ -3,10 +3,10 @@
 ## Project objective: 
 The objective of this HR Interactive Dashboard is to provide a comprehensive overview of employee data to support data-driven decision-making in Human Resources. The dashboard visualizes key workforce metrics such as salary distribution, gender diversity, department headcount, performance-linked compensation, age distribution, and tenure patterns.It enables stakeholders to:
 
-• Identify trends in compensation and workforce demographics.
-• Assess pay equity across performance and job levels.
-• Monitor workforce composition by gender, age, and department.
-• Explore relationships between salary, tenure, and other factors.
+- Identify trends in compensation and workforce demographics.
+- Assess pay equity across performance and job levels.
+- Monitor workforce composition by gender, age, and department.
+- Explore relationships between salary, tenure, and other factors.
 
 ## Link of the Dataset: 
 - - <a href= "HR Dataset.xlsx"> HR Dataset</a>
@@ -21,21 +21,21 @@ The objective of this HR Interactive Dashboard is to provide a comprehensive ove
 
 ## ⚙️ Process Followed
 ## 1 Data Preparation
-• Cleaned and validated the dataset (e.g., removed anomalies like negative salaries).
-• Ensured consistency in categories (e.g., Department names, Gender labels).
+- Cleaned and validated the dataset (e.g., removed anomalies like negative salaries).
+- Ensured consistency in categories (e.g., Department names, Gender labels).
 
 ## 2 Data Transformation
-• Created age groups and salary bands for grouped analysis.
-• Derived calculated fields such as Average Salary, Max Salary, and Min Salary.
+- Created age groups and salary bands for grouped analysis.
+- Derived calculated fields such as Average Salary, Max Salary, and Min Salary.
 
 ## 3 Dashboard Construction
-• Built Pivot Tables to aggregate data by department, gender, performance, etc.
-• Inserted relevant charts.
-• Histogram for Salary Distribution.
-• Scatter plot for Salary vs Tenure.
-• Bar and pie charts for headcount, gender, age.
-• Clustered column chart for salary by performance band
-• Added slicers for Department, Region, Gender, and Manager status to enable interactive filtering.
+- Built Pivot Tables to aggregate data by department, gender, performance, etc.
+- Inserted relevant charts.
+- Histogram for Salary Distribution.
+- Scatter plot for Salary vs Tenure.
+- Bar and pie charts for headcount, gender, age.
+- Clustered column chart for salary by performance band
+- Added slicers for Department, Region, Gender, and Manager status to enable interactive filtering.
 
 ## 4 Styling
 - Applied consistent color schemes and fonts.
@@ -47,12 +47,12 @@ The objective of this HR Interactive Dashboard is to provide a comprehensive ove
 <img width="841" alt="HR Analytics Dashboard" src="https://github.com/user-attachments/assets/60e09fae-8f4a-4199-910a-6e72f0553ac3" />
 
 # Project Insights
-• Salary Concentration: Most employees earn between $40,000 and $100,000, as shown by the salary distribution histogram.
-• Gender Composition: The workforce consists of 55% Male and 45% Female, indicating near balance but worth monitoring for equity at senior levels.
-• Department Headcount: The Sales department is the largest, with 224 employees, highlighting where HR policies may have the greatest impact.
-• Performance & Pay: Average FTE salary consistently rises with higher salary bands and performance levels, showing alignment between compensation and performance.
-• Tenure vs Salary: The scatter plot shows no strong correlation between salary and tenure, suggesting salary growth is not purely tenure-based and may depend more on role, performance, or market factors.
-• Age Distribution: Majority of employees fall in the 30-39 and 40-44 age groups, pointing to a mid-career heavy workforce.
+- Salary Concentration: Most employees earn between $40,000 and $100,000, as shown by the salary distribution histogram.
+- Gender Composition: The workforce consists of 55% Male and 45% Female, indicating near balance but worth monitoring for equity at senior levels.
+- Department Headcount: The Sales department is the largest, with 224 employees, highlighting where HR policies may have the greatest impact.
+- Performance & Pay: Average FTE salary consistently rises with higher salary bands and performance levels, showing alignment between compensation and performance.
+- Tenure vs Salary: The scatter plot shows no strong correlation between salary and tenure, suggesting salary growth is not purely tenure-based and may depend more on role, performance, or market factors.
+- Age Distribution: Majority of employees fall in the 30-39 and 40-44 age groups, pointing to a mid-career heavy workforce.
 
 
 ## Conclusion
