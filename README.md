@@ -9,7 +9,7 @@ The objective of this HR Interactive Dashboard is to provide a comprehensive ove
 • Explore relationships between salary, tenure, and other factors
 
 ## Link of the Dataset: 
-- <a href= "https://github.com/naiyakhalid/Customer-Demographics-Bike-Purchase-Analysis-on-Excel-/blob/main/Bike%20sales%20Dataset.xlsx">Bike sales Dataset</a>
+- <a HR Dataset.xlsx"> HR Dataset</a>
 
 ## KPIs for Bike Sales Dashboard Project
 1️⃣ Average Salary: Displays the overall mean salary across all employees (e.g., $82,041.1).
