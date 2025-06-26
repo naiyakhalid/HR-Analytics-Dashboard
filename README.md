@@ -3,10 +3,10 @@
 ## Project objective: 
 The objective of this HR Interactive Dashboard is to provide a comprehensive overview of employee data to support data-driven decision-making in Human Resources. The dashboard visualizes key workforce metrics such as salary distribution, gender diversity, department headcount, performance-linked compensation, age distribution, and tenure patterns.It enables stakeholders to:
 
-• Identify trends in compensation and workforce demographics
-• Assess pay equity across performance and job levels
-• Monitor workforce composition by gender, age, and department
-• Explore relationships between salary, tenure, and other factors
+• Identify trends in compensation and workforce demographics.
+• Assess pay equity across performance and job levels.
+• Monitor workforce composition by gender, age, and department.
+• Explore relationships between salary, tenure, and other factors.
 
 ## Link of the Dataset: 
 - - <a href= "HR Dataset.xlsx"> HR Dataset</a>
