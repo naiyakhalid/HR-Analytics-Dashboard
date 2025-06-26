@@ -1,6 +1,6 @@
 # HR-Analytics-Dashboard
 
-## Project objective: 
+# Project objective: 
 The objective of this HR Interactive Dashboard is to provide a comprehensive overview of employee data to support data-driven decision-making in Human Resources. The dashboard visualizes key workforce metrics such as salary distribution, gender diversity, department headcount, performance-linked compensation, age distribution, and tenure patterns.It enables stakeholders to:
 
 - Identify trends in compensation and workforce demographics.
@@ -8,10 +8,10 @@ The objective of this HR Interactive Dashboard is to provide a comprehensive ove
 - Monitor workforce composition by gender, age, and department.
 - Explore relationships between salary, tenure, and other factors.
 
-## Link of the Dataset: 
+# Link of the Dataset: 
 - - <a href= "HR Dataset.xlsx"> HR Dataset</a>
 
-## KPIs for Bike Sales Dashboard Project
+# KPIs for Bike Sales Dashboard Project
 1. Average Salary: Displays the overall mean salary across all employees (e.g., $82,041.1).
 2. Average Age:Shows the mean age of employees (e.g., 41 years).
 3. Max Salary: Highlights the highest recorded salary (which is $168321.25).
@@ -55,7 +55,7 @@ The objective of this HR Interactive Dashboard is to provide a comprehensive ove
 - Age Distribution: Majority of employees fall in the 30-39 and 40-44 age groups, pointing to a mid-career heavy workforce.
 
 
-## Conclusion
+# Conclusion
 The HR Interactive Dashboard successfully presents a high-level and detailed view of workforce demographics and compensation patterns. It equips HR leaders with the insights needed to:
 - Monitor and promote pay equity
 - Identify areas for diversity and inclusion initiatives
