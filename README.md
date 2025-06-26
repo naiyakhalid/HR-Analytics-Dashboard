@@ -9,7 +9,7 @@ The objective of this HR Interactive Dashboard is to provide a comprehensive ove
 • Explore relationships between salary, tenure, and other factors
 
 ## Link of the Dataset: 
-- - <a href= "HR Dataset.xlsx"> Bike sales Dataset</a>
+- - <a href= "HR Dataset.xlsx"> HR Dataset</a>
 
 ## KPIs for Bike Sales Dashboard Project
 1️⃣ Average Salary: Displays the overall mean salary across all employees (e.g., $82,041.1).
@@ -43,7 +43,7 @@ The objective of this HR Interactive Dashboard is to provide a comprehensive ove
 - Positioned KPIs for easy visibility.
 
 # Dashboard
-- <a href= "HR Analytics Dashboard.png"> HR Analytics Dashboard</a>
+- <a href= "[HR Analytics Dashboard.png](https://github.com/naiyakhalid/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.png)"> HR Analytics Dashboard</a>
 
 # Project Insights
 • Salary Concentration: Most employees earn between $40,000 and $100,000, as shown by the salary distribution histogram.
