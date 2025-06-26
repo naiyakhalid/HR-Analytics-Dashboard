@@ -12,23 +12,23 @@ The objective of this HR Interactive Dashboard is to provide a comprehensive ove
 - - <a href= "HR Dataset.xlsx"> HR Dataset</a>
 
 ## KPIs for Bike Sales Dashboard Project
-1️⃣ Average Salary: Displays the overall mean salary across all employees (e.g., $82,041.1).
-2️⃣ Average Age:Shows the mean age of employees (e.g., 41 years).
-3️⃣ Max Salary: Highlights the highest recorded salary (which is $168321.25).
-4️⃣ Min Salary: Shows the lowest recorded salary (which is $1368).
-5️⃣ Employee Count by Department: Monitors headcount across departments (e.g., 224 employees in Sales).
-6️⃣ Gender Distribution: Displays the gender split within the organization (e.g., 55% Male, 45% Female).
+1. Average Salary: Displays the overall mean salary across all employees (e.g., $82,041.1).
+2. Average Age:Shows the mean age of employees (e.g., 41 years).
+3. Max Salary: Highlights the highest recorded salary (which is $168321.25).
+4. Min Salary: Shows the lowest recorded salary (which is $1368).
+5. Employee Count by Department: Monitors headcount across departments (e.g., 224 employees in Sales).
+6. Gender Distribution: Displays the gender split within the organization (e.g., 55% Male, 45% Female).
 
 ## ⚙️ Process Followed
-1️⃣ Data Preparation
+1 Data Preparation
 • Cleaned and validated the dataset (e.g., removed anomalies like negative salaries).
 • Ensured consistency in categories (e.g., Department names, Gender labels).
 
-2️⃣ Data Transformation
+2 Data Transformation
 • Created age groups and salary bands for grouped analysis.
 • Derived calculated fields such as Average Salary, Max Salary, and Min Salary.
 
-3️⃣ Dashboard Construction
+3 Dashboard Construction
 • Built Pivot Tables to aggregate data by department, gender, performance, etc.
 • Inserted relevant charts.
 • Histogram for Salary Distribution.
@@ -37,7 +37,7 @@ The objective of this HR Interactive Dashboard is to provide a comprehensive ove
 • Clustered column chart for salary by performance band
 • Added slicers for Department, Region, Gender, and Manager status to enable interactive filtering.
 
-4️⃣ Styling
+4 Styling
 - Applied consistent color schemes and fonts.
 - Added data labels and meaningful chart titles.
 - Positioned KPIs for easy visibility.
